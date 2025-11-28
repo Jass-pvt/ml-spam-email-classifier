@@ -5,7 +5,7 @@ A machine learning-based project to classify emails as **spam** or **not spam**,
 ---
 
 ## 🚀 Features
-
+  
 - Data preprocessing: cleaning, tokenization, stopword removal
 - Exploratory Data Analysis (EDA): word frequency, visualizations
 - Machine Learning model training and evaluation
@@ -20,3 +20,4 @@ ml-spam-email-classifier/
 ├── source_code.ipynb # Jupyter Notebook with complete ML pipeline
 ├── spam.csv # Dataset used for training and testing
 └── README.md # Project overview and instructions
+

@@ -8,7 +8,7 @@ A machine learning-based project to classify emails as **spam** or **not spam**,
   
 - Data preprocessing: cleaning, tokenization, stopword removal
 - Exploratory Data Analysis (EDA): word frequency, visualizations
-- Machine Learning model training and evaluation
+- Machine Learning model training and evaluation 
 - Accuracy, Precision, F1-score used for evaluation
 - Built using Python, Scikit-learn, Pandas, and NLTK 
 
@@ -21,6 +21,7 @@ ml-spam-email-classifier/
 ├── spam.csv # Dataset used for training and testing
 └── README.md # Project overview and instructions
      
+
 
 
 
